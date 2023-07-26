@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Digilent")(type "KiCad")(uri "${KIPRJMOD}/Digilent.kicad_sym")(options "")(descr ""))
+  (lib (name "CliffElectronicComponents")(type "KiCad")(uri "${KIPRJMOD}/CliffElectronicComponents.kicad_sym")(options "")(descr ""))
+  (lib (name "TexasInstruments")(type "KiCad")(uri "${KIPRJMOD}/TexasInstruments.kicad_sym")(options "")(descr ""))
+)
